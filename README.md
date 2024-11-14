@@ -1,13 +1,7 @@
-![Header](/assets/images/header/header.png)
+# YouTube and Blog Post Code Examples
 
-Description of the repo and what it contains
+In this repository is a collection of code examples I used in my YouTube videos and blog posts. You are free to download and use them as you see fit.
 
-## Instructions
+## Links to Code Examples
 
-The instructions for the/each program is contained in the README.md file in the/each program(s) folder.
-
-## Link to Porgram(s)
-
-* [application](/application/ "application") - Brief description of the contents of the application folder.
-* [application](/application/ "application") - Brief description of the contents of the application folder.
-* [application](/application/ "application") - Brief description of the contents of the application folder.
+* [Python Dates and Time Examples](/python/dates-time) - This contains both the code examples and the time zone spreadsheet that were used in the video and blog post.
