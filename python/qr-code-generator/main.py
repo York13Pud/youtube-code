@@ -37,7 +37,7 @@ def main() -> None:
     app = CTk()
     app._set_appearance_mode("dark")
     app.title("QR Code Generator")
-    app.geometry(geometry_string = "1350x1100")
+    app.geometry(geometry_string = "1350x990")
     app.resizable(width = False, height = False)
     
     icon = ImageTk.PhotoImage(icon_check)
@@ -143,11 +143,11 @@ def main() -> None:
     
     # --- Define the frame that contains the QR code or placeholder image:
     qr_code_frame = CTkFrame(master = app, width=996)
-    qr_code_frame.grid(row = 0, column = 1, padx = (0,5), pady = 10, sticky = "nesw")
+    qr_code_frame.grid(row = 0, column = 1, padx = (0,5), pady = 5, sticky = "nesw")
 
     preview_area = CTkLabel(master = qr_code_frame, image = preview_image, text="")
 
-    preview_area.grid(row = 0, column = 0, padx = 10, pady = 10, sticky = "nesw")
+    preview_area.grid(row = 0, column = 0, padx = 10, pady = 5, sticky = "nesw")
     preview_area.place(x = 498, y = 498, anchor = tk.CENTER)
     
     # --- Keep the window active until it is closed:
