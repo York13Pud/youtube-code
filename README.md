@@ -4,4 +4,5 @@ In this repository is a collection of code examples I used in my YouTube videos 
 
 ## Links to Code Examples
 
-* [Python Dates and Time Examples](/python/dates-time) - This contains both the code examples and the time zone spreadsheet that were used in the video and blog post.
+* [Python Dates and Time Examples](/python/dates-time) - This contains both the code examples and the time zone spreadsheet that were used in the video and blog post
+* [Python QR Code Generator](/python/qr-code-generator) - This is the code for a QR code generator program that uses customTKinter to build the user interface
