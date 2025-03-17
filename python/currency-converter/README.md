@@ -6,7 +6,7 @@ This project is a currency converter GUI application that uses customTKinter, al
 
 If you would like to see a video of how to deploy this, along with an explanation of the code, here is a link to a video on YouTube that goes over it.
 
-[![YouTube Video](https://img.youtube.com/vi/GvcJWR80ijk/0.jpg)](https://www.youtube.com/watch?v=GvcJWR80ijk)
+[![YouTube Video](https://img.youtube.com/vi/9iNjPkpeELQ/0.jpg)](https://www.youtube.com/watch?v=9iNjPkpeELQ)
 
 ## Instructions
 
