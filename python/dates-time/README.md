@@ -2,6 +2,10 @@
 
 This folder contains the example code and spreadsheet that was used in the video and article.
 
+If you would like to see a video of how to deploy this, along with an explanation of the code, here is a link to a video on YouTube that goes over it.
+
+[![YouTube Video](https://img.youtube.com/vi/NNMtpSUN5T0/0.jpg)](https://www.youtube.com/watch?v=NNMtpSUN5T0)
+
 ## File Descriptions
 
 - dt-examples.py - Examples of how to use the `datetime` library in Python to work with dates and time.
