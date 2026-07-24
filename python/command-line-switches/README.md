@@ -1,4 +1,4 @@
-# Python Terminal Output Colour
+# Python Command Line Switches
 
 ## Introduction
 
